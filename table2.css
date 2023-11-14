@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding-top: 40px;
+}
+caption{
+    background-color: rgb(110, 48, 48);
+    color: white;
+    font-size: 40px;
+    width: 70%;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+
+table, th, td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 15px;
+}
+
+th{
+    background-color: firebrick;
+    color: white;
+}
+
+input{
+    background-color: green;
+    color: white;
+    padding: 9px;
+}
+
+tr:hover{
+    background-color: darkgray;
+}
