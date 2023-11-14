@@ -1,3 +1,3 @@
 # skyline-tech
-# In this files i have designed a table that shows the details of a student and the course the student is offering. 
+# In this file I have designed a table showing a list of students in my cohorts and the course, grades, and their passcodes. 
 # You can modify it by yourself and make changes if you want.
