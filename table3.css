@@ -1,0 +1,47 @@
+table, th, td{
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+
+}
+
+table{
+    width: 50%;
+    font-size: 20px;
+   
+}
+
+th, td{
+    padding: 15px;
+    border-color: aqua;
+}
+
+th{
+    background-color: rgb(54, 54, 239);
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+tr:hover{
+    background-color: darkgray;
+}
+
+caption{
+    background-color: navy;
+    color: white;
+    font-size: 40px;
+    width: 70%;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.container{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding-top: 40px;
+}
